@@ -21,18 +21,28 @@ list can be created using '*','+','-'
 
       
 + number1
-        - number1_1
-        - number1_2  
+    + number1_1
+    + number1_2  
 + number2
-        - number1_1
-        - number1_2
+     + number2_1
+     + number2_2
 + number3
-        - number1_1
-        - number1_2
+     + number3_1
+     + number3_2
     
-* number1  
-* number2  
-* number3  
+* number1
+   + number1_1  
+   + number1_2  
+* number2
+   + number2_1
+   + number2_2
+* number3
+   + number3_1
+   + number3_2
 
 1. Harun
-2.  Abdullahi
+   1.Midfield
+   2.Kabir
+3.  Abdullahi
+4.  Sharif
+5.  Umar
