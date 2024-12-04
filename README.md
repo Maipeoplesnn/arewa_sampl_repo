@@ -41,8 +41,8 @@ list can be created using '*','+','-'
    + number3_2
 
 1. Harun
-   1.Midfield
-   2.Kabir
-3.  Abdullahi
-4.  Sharif
-5.  Umar
+   1 . Midfield
+   2 . Kabir
+2.  Abdullahi
+3.  Sharif
+4.  Umar
