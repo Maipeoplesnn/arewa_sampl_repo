@@ -40,9 +40,15 @@ list can be created using '*','+','-'
    + number3_1
    + number3_2
 
-1. Harun
-   1 . Midfield
-   2 . Kabir
-2.  Abdullahi
-3.  Sharif
-4.  Umar
+1. Harun  
+   1 . Midfield  
+   2 . Kabir  
+2.  Abdullahi  
+   1 . Midfield  
+   2 . Kabir  
+4.  Sharif  
+   1 . Midfield  
+   2 . Kabir  
+6.  Umar  
+   1 . Midfield  
+   2 . Kabir  
